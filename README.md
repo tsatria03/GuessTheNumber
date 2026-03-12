@@ -1,2 +1,2 @@
 # GuessTheNumber
-A quick beginner game made in javascript.
+ A quick beginner game made in javascript.

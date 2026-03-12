@@ -1,2 +1,2 @@
 New in 1.0.
-Major game enhancements.
+Added some sounds to the game.
